@@ -1,5 +1,9 @@
 # FUNDAMENTOS-DE-ALGABRA-ISABELLA-MEDINA
 ```
+Ubica los 
+```
+
+```
 Resuelve las siguientes operaciones con los números complejos.
 ```
 $25) (-7-4i)-(2+i)= -9-5i$
