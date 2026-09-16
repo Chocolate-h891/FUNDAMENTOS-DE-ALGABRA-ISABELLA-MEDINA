@@ -2,7 +2,7 @@
 ```
 Ubica los siguientes números complejos en el plano cartesiano.
 ```
-
+<img width="1104" height="1600" alt="image" src="https://github.com/user-attachments/assets/8bd1670d-d042-4247-9498-e3c695ed33b9" />
 ```
 Resuelve las siguientes operaciones con los números complejos.
 ```
@@ -173,10 +173,17 @@ $b= 4\times sen135°= 2.8284i$
 $z= -2.8284+2.8284i$
 ```
 ```
-$67) 3(cos180°+isen180°)$
+$66) 3(cos180°+isen180°)$
 
 $a= 3\times cos180°= -3$
 
 $b= 3\times sen180°= 0$
 
 $z= -3$
+```
+Obtén TODAS las raices de los siguientes complejos.
+```
+<img width="901" height="1281" alt="image" src="https://github.com/user-attachments/assets/35884e71-22e5-4336-94d6-ee37e75d3b1f" />
+<img width="851" height="1308" alt="image" src="https://github.com/user-attachments/assets/7dd46c7f-6b1e-437a-8374-a6049f22293b" />
+<img width="895" height="1349" alt="image" src="https://github.com/user-attachments/assets/717308e0-0ce0-4e16-aa41-55b34507caf5" />
+<img width="1281" height="1600" alt="image" src="https://github.com/user-attachments/assets/eff969e2-7e66-466d-bf12-60a7f92c550f" />
