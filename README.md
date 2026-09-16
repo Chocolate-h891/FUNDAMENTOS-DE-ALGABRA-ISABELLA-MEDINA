@@ -1,8 +1,8 @@
 # FUNDAMENTOS-DE-ALGABRA-ISABELLA-MEDINA
 ```
-Ubica los 
+Ubica los siguientes números complejos en el plano cartesiano.
 ```
-<img width="944" height="497" alt="image" src="https://github.com/user-attachments/assets/5e266801-4b19-4d6d-b60b-39445bc5c7e8" />
+
 
 ```
 Resuelve las siguientes operaciones con los números complejos.
