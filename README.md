@@ -3,7 +3,6 @@
 Ubica los siguientes números complejos en el plano cartesiano.
 ```
 
-
 ```
 Resuelve las siguientes operaciones con los números complejos.
 ```
