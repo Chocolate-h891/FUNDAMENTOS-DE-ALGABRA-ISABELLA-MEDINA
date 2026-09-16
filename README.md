@@ -129,7 +129,7 @@ $z= 7(cos270°+isen270°)$
 ```
 Convierte los números complejos de su forma polar a su forma rectangular
 ```
-$61) cos30°+isen30°
+$61) cos30°+isen30°$
 
 $a= 1\times cos30°= 0.8660$
 
@@ -138,10 +138,46 @@ $b= 2\times sen30°= 0.5i$
 $z= 0.8660+0.5i$
 ```
 ```
-$62) cos30°+isen30°
+$62) 2(cos60°+isen60°)$
 
-$a= 1\times cos30°= 0.8660$
+$a= 2\times cos60°= 1$
 
-$b= 2\times sen30°= 0.5i$
+$b= 2\times sen60°= 1.7320i$
 
-$z= 0.8660+0.5i$
+$z= 1+1.73201i$
+```
+```
+$63) 1.5(cos90°+isen90°)$
+
+$a= 1.5\times cos90°= 0$
+
+$b= 1.5\times sen90°= 1.5i$
+
+$z= 1.5i$
+```
+```
+$64) 2.5(cos120°+isen120°)$
+
+$a= 2.5\times cos120°= -1.25$
+
+$b= 2.5\times sen120°= 2.1650i$
+
+$z= -1.25+2.1650i$
+```
+```
+$65) 4(cos135°+isen135°)$
+
+$a= 4\times cos135°= -2.8284$
+
+$b= 4\times sen135°= 2.8284i$
+
+$z= -2.8284+2.8284i$
+```
+```
+$67) 3(cos180°+isen180°)$
+
+$a= 3\times cos180°= -3$
+
+$b= 3\times sen180°= 0$
+
+$z= -3$
