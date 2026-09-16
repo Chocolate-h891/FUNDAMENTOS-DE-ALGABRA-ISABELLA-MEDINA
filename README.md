@@ -46,12 +46,102 @@ $42) \frac{2-2i}{4-10i}= \frac{2-2i}{4-10i}\times \frac{4+10i}{4+10i}= \frac{8+2
 ```
 Calcular el valor absoluto de los siguientes números complejos.
 ```
+$43) |-9-9i|= \sqrt{(-9)^2+(-9)^2}= \sqrt{162}= 12.7279$
+
+$44) |8-6i|= \sqrt{(8)^2+(-6)^2}= \sqrt{100}= 10$
+
+$45) |6-3i|= \sqrt{(6)^2+(-3)^2}= \sqrt{45}= 6.7082$
+
+$46) |10+10i|= \sqrt{(10)^2+(10)^2}= \sqrt{200}= 14.1421$
+
+$47) |6-10i|= \sqrt{(6)^2+(-10)^2}= \sqrt{136}= 11.6619$
+
+$48) |-1+7i|= \sqrt{(-1)^2+(7)^2}= \sqrt{50}= 7.0710$
 ```
 Resuelve las siguientes potencias de i.
 ```
 $49) i^5= i$
+
 $50) i^10= -1$
+
 $51) i^20= 1$
+
 $52) i^35=-i$
+
 $53) i^256= 1$
+
 $54) i^{5^5}= 1$
+```
+Convierte los siguientes números complejos a su forma polar.
+```
+$55) 6-8i$
+
+$r= \sqrt{6^2+8^2}= \sqrt{100}= 10$
+
+$Θ= tan^-1 \frac{-8}{6}= -53°7°= 360°-53°7°=306°53°$
+
+$z= 10(cos306°53°+isen306°53°)$
+```
+```
+$56) 5 \sqrt{2}+5 \sqrt{2}i$
+
+$r= \sqrt{(5 \sqrt{2})^2+(5 \sqrt{2})^2}= \sqrt{100}= 10$
+
+$Θ= tan^-1 \frac{5 \sqrt{2}}{5 \sqrt{2}}= 45°$
+
+$z= 10(cos10°+isen45°)$
+```
+```
+$57) 2-2 \sqrt{3}i$
+
+$r= \sqrt{2^2+(2 \sqrt{3})^2}= \sqrt{16}= 4$
+
+$Θ= tan^-1 \frac{-2 \sqrt{3}}{2}= -60°= 360°-60°=300°$
+
+$z= 4(cos300°+isen300°)$
+```
+```
+$58) \frac{3 \sqrt{3}}{2}- \frac{3i}{2}$
+
+$r= \sqrt{(\frac{3 \sqrt{3}}{2})^2+ (\frac{3}{2})^2}= \sqrt{ \frac{36}{4}}= \sqrt{9}=3$
+
+$Θ = \tan^{-1}\left(\frac{\frac{-3}{2}}{\frac{3\sqrt{3}}{2}}\right) = -30^\circ = 360^\circ - 30^\circ = 330^\circ$
+
+$z= 3(cos330°+isen330°)$
+```
+```
+$59) -2$
+
+$r= \sqrt{2^2+0^2}= \sqrt{4}= 2$
+
+$Θ= tan^-1 \frac{0}{-2}=Error = 180°$
+
+$z= 2(cos180°+isen180°)$
+```
+```
+$60) -7i$
+
+$r= \sqrt{0^2+7^2}= \sqrt{49}= 7$
+
+$Θ= tan^-1 \frac{-7}{0}=Error = 270°$
+
+$z= 7(cos270°+isen270°)$
+```
+Convierte los números complejos de su forma polar a su forma rectangular
+```
+$61) cos30°+isen30°
+
+$a= 1\times cos30°= 0.8660$
+
+$b= 2\times sen30°= 0.5i$
+
+$z= 0.8660+0.5i$
+```
+```
+$62) cos30°+isen30°
+
+$a= 1\times cos30°= 0.8660$
+
+$b= 2\times sen30°= 0.5i$
+
+$z= 0.8660+0.5i$
