@@ -65,104 +65,137 @@ $84)  00000101 01010101$
 
 2   5   2   5
 ```
+Convierte de binario a hexadecimal
 ```
-**Convierte de binario a hexadecimal**
-
 $85)  11011010$
+
 1101    1010
+
 13  10
+
 DA
 
 $86)  01111100$
+
 0111    1100
+
 7   12
+
 7C
 
 $87)  10110101$
+
 1011    0101
+
 11  5
+
 B5
 
 $88)  11110000 10100101$
+
 1111    0000 1010   0101
+
 15  0   10  5
+
 F0A5
 
 $89)  00001111 00001111$
+
 0000    1111 0000   1111
+
 0   15  0   15
+
 0F0F
 
 $90)  10000000 00000001$
+
 1000    0000 0000   0001
+
 8   0   0   1
+
 8001
 ```
+Convierte de octal a binario
 ```
-**Convierte de octal a binario**
-
 $91)  325$
+
 011010101
 
 $92)  156$
+
 001101110
 
 $93)  377$
+
 011111111
 
 $94)  01777$
+
 001111111111
 
 $95)  03700$
+
 011111000000
 
 $96)  05255$
+
 101010101101
 ```
+Convierte de hexadecimal a binario
 ```
-**Convierte de hexadecimal a binario**
-
 $97)  DA$
+
 11011010
 
 $98)  7C$
+
 01111100
 
 $99)  B5$
+
 10110101
 
 $100)  F0A5$
+
 11110000101001
 
 $101)  0F0F$
+
 0000111100001111
 
 $102)  8001$
+
 1000000000000001
 ```
+Nombra los polinomios por su exponente más alto y número de términos
 ```
-**Nombra los polinomios por su exponente más alto y número de términos**
+$103)  5n + 5$
 
-$03)  5n + 5$
 Binomio lineal
 
 $104) -10p^3 - 6 + 9p^2 - 4p^5 - 2p^8$
+
 Polinomio de 5 terminos, grado 8
 
 $105)  7x^8$
+
 Monomio grado 8
 
 $106)  -2n + n^4 + 10n^6$
+
 Trinomio grado 6
 
 $107)  5$
+
 Monomio
 
 $108)  5v^7$
+
 Monomio grado 7
 ```
+Resuelve las siguientes preguntas
 ```
-**Resuelve las siguientes preguntas**
+
 109) Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y solo tomó 3.08 horas. Encuentra cuánto le tomaría a Jill hacerlo sola.
 
 
@@ -176,3 +209,6 @@ Monomio grado 7
 
 
 113)  1 yd³ de tierra que contenía 30% de arena se mezcló con 4 yd³ de tierra que contenía 20% de arena. ¿Cuál es el contenido de arena de la mezcla?
+
+
+115)  Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la Marca B. La Marca A contiene 11% de jugo de fruta y la Marca B contiene 24% de jugo de fruta. ¿Qué porcentaje de la mezcla es jugo de fruta?
