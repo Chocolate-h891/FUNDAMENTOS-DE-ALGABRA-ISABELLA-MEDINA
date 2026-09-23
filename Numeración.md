@@ -196,19 +196,71 @@ Monomio grado 7
 Resuelve las siguientes preguntas
 ```
 
-109) Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y solo tomó 3.08 horas. Encuentra cuánto le tomaría a Jill hacerlo sola.
+"Amy puede verter una gran entrada de concreto en ocho horas. Un día su amiga Jill la ayudó y solo tomó 3.08 horas. Encuentra cuánto le tomaría a Jill hacerlo sola."
+Amy: $\frac{1}{8} =1 hora$
+Jill: $\frac{1}{x} =1 hora$
+$3.08= \frac{77}{25}
 
+$\frac{1}{8} + \frac{1}{x}= \frac{1}{\frac{77}{25}}$
 
-110)  Jaidee puede cavar un hoyo de 10 pies por 10 pies en cinco horas. Ted puede cavar el mismo hoyo en siete horas. Si trabajaran juntos, ¿cuánto tiempo les tomaría?
+$\frac{1}{x}= \frac{1}{\frac{25}{77}} -\frac{1}{8}$
 
+$\frac{1}{x}= \frac{200-77}{616}$
 
-111)  Un avión de carga salió de Los Ángeles y voló hacia Moscú. Un avión de la Fuerza Aérea salió cuatro horas después volando a 310 km/h en un esfuerzo por alcanzar al avión de carga. Después de volar durante seis horas, el avión de la Fuerza Aérea finalmente lo alcanzó. ¿Cuál era la velocidad promedio del avión de carga?
+$\frac{1}{x}= \frac{123}{616}$
 
+$x= \frac{616}{123}= 5.008$
+Tomaría 5 horas
 
-112)  Un tren de carga viajó a Nueva York y de regreso. En el viaje de ida viajó a 35 km/h y en el viaje de regreso fue a 49 km/h. ¿Cuánto tiempo tomó el viaje de ida si el viaje de regreso tomó diez horas?
+Jaidee puede cavar un hoyo de 10 pies por 10 pies en cinco horas. Ted puede cavar el mismo hoyo en siete horas. Si trabajaran juntos, ¿cuánto tiempo les tomaría?
+Jaidee: $\frac{1}{5} por hora$
+Ted: $\frac{1}{7} por hora$
 
+$\frac{1}{t}= \frac{1}{5}+ \frac{1}{7}$
 
-113)  1 yd³ de tierra que contenía 30% de arena se mezcló con 4 yd³ de tierra que contenía 20% de arena. ¿Cuál es el contenido de arena de la mezcla?
+$\frac{1}{t}= \frac{5+7}{35}$
 
+$\frac{1}{t}= \frac{12}{35}$
 
-115)  Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la Marca B. La Marca A contiene 11% de jugo de fruta y la Marca B contiene 24% de jugo de fruta. ¿Qué porcentaje de la mezcla es jugo de fruta?
+$t= \frac{35}{12}= 2.91$
+Tomaría 2 horas y 55 minutos
+
+Un avión de carga salió de Los Ángeles y voló hacia Moscú. Un avión de la Fuerza Aérea salió cuatro horas después volando a 310 km/h en un esfuerzo por alcanzar al avión de carga. Después de volar durante seis horas, el avión de la Fuerza Aérea finalmente lo alcanzó. ¿Cuál era la velocidad promedio del avión de carga?
+ti=6h
+vi=310km/h
+
+d= $310 \times6=1860km$
+
+tc= $6+4=10$
+
+$1860= vc \times10$
+
+vc= $\frac{1860}{10}= 186$
+Su velocidad era de 186km/h
+
+Un tren de carga viajó a Nueva York y de regreso. En el viaje de ida viajó a 35 km/h y en el viaje de regreso fue a 49 km/h. ¿Cuánto tiempo tomó el viaje de ida si el viaje de regreso tomó diez horas?
+Ida= 35km/h
+Reg= 49km/h
+Tr= 10h
+
+$d=49 \times10= 490$
+
+$490=35+ti$
+
+$ti= \frac{490}{35}= 14$
+Tomó 14 horas
+
+1 yd³ de tierra que contenía 30% de arena se mezcló con 4 yd³ de tierra que contenía 20% de arena. ¿Cuál es el contenido de arena de la mezcla.
+$A=(1 \times0.30)+(4 \times0.20)= 1.10$
+$V= 1+4=5$
+
+$x=(\frac{1.10}{5}) \times100= 22$
+Hay un 22% de arena en la mezcla
+
+Para su fiesta de cumpleaños, James mezcló 7 L de ponche de frutas de la Marca A y 6 L de la Marca B. La Marca A contiene 11% de jugo de fruta y la Marca B contiene 24% de jugo de fruta. ¿Qué porcentaje de la mezcla es jugo de fruta?
+
+$A=(7 \times0.11)+(6 \times0.24)= 2.21$
+$V= 6+7=13$
+
+$x=(\frac{2.21}{13}) \times100= 17$
+Hay un 17% de jugo de fruta en la mezcla
