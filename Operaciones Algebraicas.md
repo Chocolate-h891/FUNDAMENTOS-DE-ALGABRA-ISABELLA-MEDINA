@@ -68,12 +68,80 @@ Realiza los siguientes productos
 Simplifica las siguientes expresiones
 ```
 
+133) $\frac{a^2(3a^2)^2}{2a^0}= \frac{a^2(9a^4)}{2(1)}= \frac{9a^6}{2}$
+---
 
+134) $(\frac{3r^3 \times2r^3}{2rr^2)})^2= (\frac{6r^6}{2r^3})^2= (3r^3)^2=9r^6$
+---
 
+135) $\frac{v^0(3v^3)^2}{(v^0)^3}= \frac{9v^6}{1}= 9v^6$
+---
 
+136) $(\frac{2v^3}{2v^2\times 3v})^3 = (\frac{2v^3}{6v^3})^3 = (\frac{1}{3})^3 = \frac{1}{27}$
+---
 
+137) $(\frac{(3x)^3}{3x\times 3x})^2= (\frac{27x^3}{9x^2})^2= (3x)^2 = 9x^2$
+---
 
+138) $\frac{x^2\times (2x^2)^2}{3x}= \frac{x^2\times (4x^4)}{3x}= \frac{4x^6}{3x} = \frac{4x^5}{3}$
+---
+```
+Simplifica los siguientes radicales
+```
 
+139) $\sqrt{18x^3}= \sqrt{9\times 2\times x^2\times x}= 3x\sqrt{2x}$
+---
 
+140) $\sqrt[4]{80n^6}= \sqrt[4]{16\times 5\times n^4\times n^2}= 2n\sqrt[4]{5n^2}$
+---
 
+141) $\sqrt{192n^3}= \sqrt{64\times 3\times n^2\times n}= 8n\sqrt{3n}$
+---
+
+142) $\sqrt{288n}= \sqrt{144\times 2\times n}= 12\sqrt{2n}$
+---
+
+143) $\sqrt{18v^2}= \sqrt{9\times 2\times v^2}= 3v\sqrt{2}$
+---
+
+144) $\sqrt[4]{32n^4}= \sqrt[4]{16\times 2\times n^4}= 2n\sqrt[4]{2}$
+---
+```
+Simplifica las siguientes expresiones
+```
+
+145) $\frac{2}{5+3\sqrt{3}}$
+
+$\frac{2}{5+3\sqrt{3}}\times \frac{5-3\sqrt{3}}{5-3\sqrt{3}}$
+$=\frac{10-6\sqrt{3}}{25-27}= \frac{10-6\sqrt{3}}{-2}=-5 + 3\sqrt{3}$
+
+---
+
+146) $\frac{4}{5\sqrt{3}-4}$
+
+$\frac{4}{5\sqrt{3}-4}\times \frac{5\sqrt{3}+4}{5\sqrt{3}+4}= \frac{20\sqrt{3} + 16}{75-16}= \frac{20\sqrt{3} + 16}{59}$
+
+---
+
+147) $\frac{2}{3\sqrt{2} + 5\sqrt{3}}$
+
+$\frac{2}{3\sqrt{2}+5\sqrt{3}}\times \frac{3\sqrt{2}-5\sqrt{3}}{3\sqrt{2}-5\sqrt{3}}= \frac{6\sqrt{2}-10\sqrt{3}}{18 - 75}= \frac{6\sqrt{2}-10\sqrt{3}}{-57}=\frac{10\sqrt{3}-6\sqrt{2}}{57}$
+
+---
+
+148) $\frac{4}{\sqrt{3} - 2}$
+
+$\frac{4}{\sqrt{3}-2}\times \frac{\sqrt{3}+2}{\sqrt{3}+2}= \frac{4\sqrt{3}+8)}{3-4}= \frac{4\sqrt{3}+8}{-1}= -4\sqrt{3} - 8$
+
+---
+
+149) $\frac{3}{-4 + 4\sqrt{2}}$
+
+$\frac{3}{-4+4\sqrt{2}}\times \frac{-4-4\sqrt{2}}{-4-4\sqrt{2}}= \frac{-12-12\sqrt{2}}{16-32}= \frac{-12-12\sqrt{2}}{-16}= \frac{3 + 3\sqrt{2}}{4}$
+
+---
+
+150) $\frac{2}{4 + \sqrt{2}}$
+
+$\frac{2}{4+\sqrt{2}}\times \frac{4-\sqrt{2}}{4-\sqrt{2}}= \frac{8-2\sqrt{2}}{16-2}= \frac{8-2\sqrt{2}}{14}= \frac{4-\sqrt{2}}{7}$
 
