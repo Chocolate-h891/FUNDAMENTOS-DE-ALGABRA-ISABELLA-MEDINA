@@ -3,6 +3,9 @@
 ```
 Grafica las siguientes ecuaciones
 ```
+<img width="948" height="1600" alt="image" src="https://github.com/user-attachments/assets/d1e973f5-0f61-4005-ba70-687838fed110" />
+<img width="1578" height="1600" alt="image" src="https://github.com/user-attachments/assets/ecac4982-bb7a-42fb-9971-d86b17403078" />
+<img width="879" height="1600" alt="image" src="https://github.com/user-attachments/assets/f37481a4-ec11-46d9-96a1-b6edaeba7d75" />
 
 
 ```
